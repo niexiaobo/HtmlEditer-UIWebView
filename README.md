@@ -3,11 +3,21 @@
 
 ### 1 创建文章
 
-<img src="img/img1.png"></img>
+<img src="img/img1.png" height="300" width="200"></img>
+
+<img src="img/img2.png" height="300" width="200"></img>
+
+<img src="img/img3.png" height="300" width="200"></img>
+
+<img src="img/img4.png" height="300" width="200"></img>
+
+### 2 编辑文章
+
+<img src="img/img5.png" height="300" width="200"></img>
+
+<img src="img/img6.png" height="300" width="200"></img>
+
+<img src="img/img7.png" height="300" width="200"></img>
 
 
-
-`![img](img/img1.png){:height="100" width="100"}`
-
-[1](img/img1.png)
 
